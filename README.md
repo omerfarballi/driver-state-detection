@@ -16,3 +16,5 @@ In figure 2, a qt-based interface was developed and the artificial intelligence 
 
 Figure 2
 
+Video of the system resulting from the integration of RPi and the artificial intelligence model:
+The Video link : https://drive.google.com/file/d/1k3tTeFBOT9MmegBEP8uuduax5WEsb6fN/view
